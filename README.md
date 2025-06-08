@@ -14,6 +14,7 @@ I’m deeply passionate about cybersecurity and thrive on solving complex challe
 - **[Threat Hunting Scenario: Exposed VM + Brute-Force Investigation](https://github.com/yeg003/threat-hunting-vm-exposure)**
 - **[Threat Hunting Scenario: Data Exfiltration from PIP'd Employee](https://github.com/yeg003/threat-hunting-data-exfiltration-from-pipd-employee)**
 - **[Zero-Day Ransomware (PwnCrypt) Outbreak](https://github.com/yeg003/threat-hunting-zero-day-ransomware-pwncrypt-outbreak)**
+- **[Internal Port Scanning via PowerShell](https://github.com/yeg003/threat-hunting-internal-port-scanning-via-powershell)**
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 

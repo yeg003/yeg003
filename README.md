@@ -3,7 +3,7 @@
 I’m deeply passionate about cybersecurity and thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, these experiences have allowed me to explore the dynamic landscape of cybersecurity in depth. Feel free to browse through my work—each project reflects my commitment to strengthening security operations and continuously improving processes.
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/yeg003/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**

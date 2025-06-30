@@ -3,12 +3,12 @@
 I’m deeply passionate about cybersecurity and thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, these experiences have allowed me to explore the dynamic landscape of cybersecurity in depth. Feel free to browse through my work—each project reflects my commitment to strengthening security operations and continuously improving processes.
 
 
-## ⚠️ Vulnerability Management
+## Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/yeg003/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario: (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario: Exposed VM + Brute-Force Investigation](https://github.com/yeg003/threat-hunting-vm-exposure)**
@@ -20,3 +20,6 @@ I’m deeply passionate about cybersecurity and thrive on solving complex challe
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+## GRC
+
+- **[Microsoft GRC Security Framework](https://github.com/yeg003/grc)**

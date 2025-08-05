@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/yancarlos-espinosa//">Yancarlos Espinosa</a>'s IT and Cybersecurity Project Portfolio 🔐
+# IT and Cybersecurity Project Portfolio 🔐
 
 I’m deeply passionate about cybersecurity and thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, these experiences have allowed me to explore the dynamic landscape of cybersecurity in depth. Feel free to browse through my work—each project reflects my commitment to strengthening security operations and continuously improving processes.
 

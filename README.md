@@ -3,6 +3,10 @@
 I’m deeply passionate about cybersecurity and thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, these experiences have allowed me to explore the dynamic landscape of cybersecurity in depth. Feel free to browse through my work—each project reflects my commitment to strengthening security operations and continuously improving processes.
 
 
+## Agentic AI Engineer Projects
+
+- **[Agentic AI Vulnerability Management Agent](https://github.com/yeg003/agentic-ai-vulnerability-management-agent)**
+
 ## Vulnerability Management
 
 - **[HIPAA Aligned Vulnerability Management Lifecycle](https://github.com/yeg003/hipaa-aligned-vulnerability-management-lab)**

@@ -1,6 +1,21 @@
-# IT and Cybersecurity Project Portfolio 🔐
+# IT and Cybersecurity Project Portfolio
 
-I’m deeply passionate about cybersecurity and thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, these experiences have allowed me to explore the dynamic landscape of cybersecurity in depth. Feel free to browse through my work—each project reflects my commitment to strengthening security operations and continuously improving processes.
+I’m a **Cybersecurity Engineer** specializing in **Vulnerability Management**, **GRC engineering**, and **Agentic AI automation**.  
+I build AI-powered systems that accelerate security workflows — from vulnerability triage to incident reporting — while applying strong LLM safety controls to ensure secure, reliable outcomes.
+
+My work focuses on combining Agentic AI + security engineering to solve real-world problems:
+-	Vulnerability Management automation using Python, agentic workflows, and enriched risk scoring (ACR, KEV, exploitability, exposure).
+- Secure Agentic AI systems with defenses against prompt injection, data exfiltration, unsafe tool execution, and model abuse, aligned with the OWASP Top 10 for LLMs.
+- GRC engineering & compliance automation, supporting frameworks like NIST 800-53, NIST AI RMF, ISO 27001, SOC 2, HIPAA, PCI-DSS, and CMMC.
+- Security automation & orchestration using Python, Bash, cloud-native tools, and vulnerability scanners.
+
+I also work hands-on with:
+-	VM tools: Tenable, Defender for Endpoint
+- Cloud platforms: AWS, Azure, GCP
+
+My goal is to bridge traditional cybersecurity with next-generation Agentic AI,  enabling security teams to reduce noise, remediate faster, and scale defenses without adding headcount.
+
+Always building. Always improving. Always learning.
 
 
 ## Agentic AI Engineer Projects

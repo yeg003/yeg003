@@ -25,6 +25,8 @@ Always building. Always improving. Always learning.
 
 ## Vulnerability Management
 
+- **[Tenable Vulnerability Management Pipeline](https://github.com/yeg003/tenable-vulnerability-management-pipeline)**
+- **[Azure Scannerless Vulnerability Intelligence Platform](https://github.com/yeg003/azure-scannerless-vulnerability-management)**
 - **[HIPAA Aligned Vulnerability Management Lifecycle](https://github.com/yeg003/hipaa-aligned-vulnerability-management-lab)**
 
 - **[Vulnerability Management Program Implementation](https://github.com/yeg003/vulnerability-management-program)**
@@ -45,4 +47,5 @@ Always building. Always improving. Always learning.
 -->
 ## GRC
 
+- **[VM False Positive and Exception Engine](https://github.com/yeg003/vm-false-positive-exception-engine)**
 - **[Microsoft GRC Security Framework](https://github.com/yeg003/grc)**

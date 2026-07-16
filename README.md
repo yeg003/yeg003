@@ -21,6 +21,7 @@ Always building. Always improving. Always learning.
 ## Agentic AI Engineer Projects
 
 - **[Agentic AI Vulnerability Management Agent](https://github.com/yeg003/agentic-ai-vulnerability-management-agent)**
+- **[Proofline: AI Remediation Evidence Validator](https://github.com/yeg003/ai-remediation-evidence-validator)**
 
 ## Vulnerability Management
 

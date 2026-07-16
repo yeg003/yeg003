@@ -36,6 +36,7 @@ Always building. Always improving. Always learning.
 - **[Threat Hunting Scenario: Data Exfiltration from PIP'd Employee](https://github.com/yeg003/threat-hunting-data-exfiltration-from-pipd-employee)**
 - **[Zero-Day Ransomware (PwnCrypt) Outbreak](https://github.com/yeg003/threat-hunting-zero-day-ransomware-pwncrypt-outbreak)**
 - **[Internal Port Scanning via PowerShell](https://github.com/yeg003/threat-hunting-internal-port-scanning-via-powershell)**
+- **[Vulnerability Operations Center](https://github.com/yeg003/vulnerability-operations-center)**
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 

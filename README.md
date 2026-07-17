@@ -26,11 +26,17 @@ Always building. Always improving. Always learning.
 ## Vulnerability Management
 
 - **[Tenable Vulnerability Management Pipeline](https://github.com/yeg003/tenable-vulnerability-management-pipeline)**
-- **[Azure Scannerless Vulnerability Intelligence Platform](https://github.com/yeg003/azure-scannerless-vulnerability-management)**
 - **[HIPAA Aligned Vulnerability Management Lifecycle](https://github.com/yeg003/hipaa-aligned-vulnerability-management-lab)**
 
 - **[Vulnerability Management Program Implementation](https://github.com/yeg003/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## Cloud Security
+
+- **[Azure Scannerless Vulnerability Intelligence Platform](https://github.com/yeg003/azure-scannerless-vulnerability-management)**
+- **[Azure Defender for Cloud to Excel Pipeline](https://github.com/yeg003/azure-defender-for-cloud-to-excel-pipeline)**
+- **[Azure Entra Identity Policy Verification](https://github.com/yeg003/azure-entra-identity-policy-verification)**
+- **[AWS IAM Access Review Evidence Tool](https://github.com/yeg003/grc-aws-access-review-evidence-tool)**
 
 ## Threat Hunting and Security Operations
 

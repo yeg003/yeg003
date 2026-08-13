@@ -23,6 +23,10 @@ Always building. Always improving. Always learning.
 - **[Agentic AI Vulnerability Management Agent](https://github.com/yeg003/agentic-ai-vulnerability-management-agent)**
 - **[Proofline: AI Remediation Evidence Validator](https://github.com/yeg003/ai-remediation-evidence-validator)**
 
+### Business AI Automations
+
+- **[Evidence-Grounded AI Outreach Workflow](https://github.com/yeg003/evidence-grounded-ai-outreach-workflow)**
+
 ## Vulnerability Management
 
 - **[Tenable Vulnerability Management Pipeline](https://github.com/yeg003/tenable-vulnerability-management-pipeline)**

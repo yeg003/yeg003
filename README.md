@@ -25,7 +25,7 @@ Always building. Always improving. Always learning.
 
 ## AI Automations
 
-- **[Evidence-Grounded AI Outreach Workflow](https://github.com/yeg003/evidence-grounded-ai-outreach-workflow)**
+- **[AI-Powered Lead Outreach Automation](https://github.com/yeg003/ai-powered-lead-outreach-automation)**
 
 ## Vulnerability Management
 
